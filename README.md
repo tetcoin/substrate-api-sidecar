@@ -2,7 +2,7 @@
 <br /><br />
 
 <div align="center">
-  <h1 align="center">@substrate/api-sidecar</h1>
+  <h1 align="center">@tetcore/api-sidecar</h1>
   <h4 align="center"> REST service that makes it easy to interact with blockchain nodes built using Substrate's FRAME framework.</h4>
 
   <p align="center">
